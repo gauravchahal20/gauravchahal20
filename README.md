@@ -26,11 +26,13 @@ Currently Working On
 Coding Profiles
 
 LeetCode: https://leetcode.com/u/gauravchahal20/
+
 CodeChef: https://www.codechef.com/users/gauravchahal20
 
 Contact
 
 LinkedIn: https://linkedin.com/in/gauravchahal-grvvchhl
+
 Email: chhlgrv@gmail.com
 
 About
