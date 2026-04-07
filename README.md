@@ -25,8 +25,8 @@ Currently Working On
 
 Coding Profiles
 
-LeetCode: https://leetcode.com/your-username
-Codeforces: https://codeforces.com/profile/your-username
+LeetCode: https://leetcode.com/u/gauravchahal20/
+CodeChef: https://www.codechef.com/users/gauravchahal20
 
 Contact
 
