@@ -1,4 +1,5 @@
 Gaurav Chahal
+
 B.Tech Computer Science Engineering Student (2024–2028)
 Focused on Data Structures & Algorithms, Web Development, and Artificial Intelligence/Machine Learning
 Preparing for GATE 2028
@@ -6,15 +7,18 @@ Preparing for GATE 2028
 Skills
 
 Programming Languages:
+
 C, C++, Python
 
 Core Subjects:
+
 Data Structures & Algorithms
 Database Management Systems (DBMS)
 Operating Systems
 Computer Networks
 
 Technologies:
+
 HTML, CSS, JavaScript, React
 
 Currently Working On
